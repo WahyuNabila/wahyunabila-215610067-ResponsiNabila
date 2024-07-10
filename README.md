@@ -57,3 +57,8 @@ website-profil :
 docker run -d –name website-profil –network my-wahyu-network -p 8080:80 website-profil
 ```
 
+## 7. Mengakses website 
+1. Membuka traffic port accessor pada killercoda ubuntu.
+2. Akses halaman utama di: http://localhost:8080. maka akan menampilkan website data diri.
+3. Klik halaman profil untuk bernavigasi “ke Halaman Profil”.
+4. Akan tampak halaman profil.
